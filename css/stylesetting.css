@@ -1,0 +1,11 @@
+.center_div{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+.col-xs-4{
+	width: 400px;
+}

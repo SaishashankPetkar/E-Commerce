@@ -1,0 +1,23 @@
+#banner_image{
+	padding-top: 50px;
+    padding-bottom: 75px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("../img/intro-bg_1.jpg") no-repeat center;
+    background-size: cover;
+}
+#banner_content{
+	position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    margin-left:   27%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+    overflow: hidden;
+}
+.alide{
+    padding-top: 20px;
+    margin-left: 250px;
+}
